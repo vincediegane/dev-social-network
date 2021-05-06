@@ -5,4 +5,5 @@ A simple social app for developers.
 - cd projectLocation/projectName
 - npm install
 - npm run dev
+
 Get taste
